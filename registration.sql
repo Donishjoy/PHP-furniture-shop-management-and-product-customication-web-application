@@ -133,7 +133,7 @@ CREATE TABLE `customer2` (
 --
 
 INSERT INTO `customer2` (`username`, `phoneno`, `emailid`, `pass`, `confpass`, `user`, `caddress`, `pin`, `contactno`) VALUES
-(' rahul', 2147483647, ' rahul@gmail.com', '963', '963', '', '  xyz kochi', ' 685566', 0)
+(' rahul', 2147483647, ' rahul@gmail.com', '963', '963', 'admin', '  xyz kochi', ' 685566', 0)
 ;
 
 -- --------------------------------------------------------
